@@ -12,11 +12,6 @@ import java.util.List;
 
 import models.Item;
 
-/**
- * Created by Ashiq Uz Zoha on 9/13/15.
- * Dhrubok Infotech Services Ltd.
- * ashiq.ayon@gmail.com
- */
 public class UserAdapter extends BaseAdapter {
 
     private List<Item> users ;

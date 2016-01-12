@@ -19,11 +19,7 @@ import retrofit.http.PUT;
 import retrofit.http.Path;
 import retrofit.http.Query;
 
-/**
- * Created by Ashiq Uz Zoha on 9/13/15.
- * Dhrubok Infotech Services Ltd.
- * ashiq.ayon@gmail.com
- */
+
 public class RestClient {
 
     private static GitApiInterface gitApiInterface ;
